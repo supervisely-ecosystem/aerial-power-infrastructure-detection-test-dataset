@@ -1,0 +1,12 @@
+{
+  "name": "Test dataset - Aerial Power Infrastructure Detection",
+  "description": "XXX",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project"
+  ],
+  "icon": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-test-dataset/assets/119248312/e66460e0-4046-43b6-bfa9-4e0931506b8e",
+  "icon_cover": true
+}

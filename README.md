@@ -9,7 +9,7 @@
   <a href="#overview">Overview</a> •
   <a href="#download">Download</a> •
   <a href="#data-example">Example</a> •
-  <a href="#data-example">License</a> •
+  <a href="#license">License</a>
   
 </p>
 

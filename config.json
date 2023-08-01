@@ -1,9 +1,9 @@
 {
-  "name": "Test dataset - Aerial Power Infrastructure Detection",
+  "name": "Test dataset - Insulator-Defect Detection",
   "description": "For object detection tutorials",
   "type": "project",
   "categories": ["import", "images", "project"],
   "icon": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-test-dataset/assets/119248312/e66460e0-4046-43b6-bfa9-4e0931506b8e",
   "icon_cover": true,
-  "poster": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-test-dataset/assets/119248312/607bd380-eb70-4d98-adee-34d8479d100f"
+  "poster": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-test-dataset/assets/119248312/424bba4d-41a1-4645-b9a9-61bb0beb0cea"
 }
